@@ -1,0 +1,4 @@
+# requirements.txt
+graphviz
+Flask  # Optional, if you add a web interface later
+
